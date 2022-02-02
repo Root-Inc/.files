@@ -7,3 +7,7 @@
 ## - Make sure to... :
 # $ sudo make clean install
 # ... to patch inside the dwm and slstatus dirs in .config
+
+
+PS: Btw, apologies for the dotfiles not getting uploaded directly. 
+    I couldn't figure out any method by uploading the folder directly.
