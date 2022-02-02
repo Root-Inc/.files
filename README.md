@@ -5,7 +5,10 @@
 ![preview2](https://user-images.githubusercontent.com/98865861/152094670-fe9721c1-1e8c-4cd2-baac-42abe8ceab4f.png)
 
 ## - Make sure to... :
-# $ sudo make clean install
+# $ tar -xvf .config.tar
+# $ cd config && cd dwm
+# $ sudo make clean install && cd ..
+# $ cd slstatus && sudo make clean install
 # ... to patch inside the dwm and slstatus dirs in .config
 
 
