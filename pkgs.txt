@@ -1,0 +1,42 @@
+## THESE PACKAGESE ARE ONLY ON THE AUR/Arch Official Repos: For Debian or other distros, manually search them.
+
+# Fancy Stuff
+tty-clock		# Big clock on the screen as seen in preview.png
+cmatrix			# It just looks cool, this is what heckers love
+htop			# CLI Task Manager
+gotop			# Better CLI Task Manager with additional infos and has a graph
+gtop			# Like gotop, but has additional features and better graphs
+bashtop			# Has more features and customizable themes, that just look good
+bpytop			# Like bashtop, but made with python3
+neofetch		# Provides system status
+
+
+# Terminal programs // Compositors
+tmux			# Multiple terminals in one session
+ranger			# A CLI File Manager
+cmus			# Music player on CLI
+slstatus		# DWM Status bar PS: You can just sudo make install the current one. 
+mpd
+xcompmgr		# A Compositor
+dunst 			# Notification System
+unclutter 
+sxhkd 			# Ease of keybinds, so you don't have to patch DWM every time.
+pulsemixer		# To Control your audio settings from the terminal like it used to do
+			# PS: Less bloat also, and it just looks cool
+picom			# Yet Another Good Compositor
+alacritty		# A Terminal lass bloated than those default terminals coming from every DE
+termite			# A Nice Terminal like alacritty but slightly unbloated than alacritty, IDK I guess?
+urxvt			# The most minimal terminal you can get after suckless terminal aka st
+betterlockscreen	# As the name implies it's a better lock screen
+nm-connection-editor	# An advanced tool for local network features
+
+# Multimedia
+
+pavucontrol		# Pulsemixer's advanced tool to control audio
+scrot			# A Screenshoting tool, lass bloated, and cool to use with sxhkd
+pulseaudio		# Audio control
+mpv			# Media player, like VLC, but less bloated, and easy to use.
+nitrogen		# GTK Wallpaper manager PS: You can just use feh, if you feel too bloat.
+feh			# Image Viewer
+svix			# Yet Another Unbloated Image Viewer
+rhythmbox		# Bloated GNOME software, don't reccomended if trying to save space.

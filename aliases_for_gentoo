@@ -1,0 +1,66 @@
+## Additional Aliases
+
+alias lsa="ls -a"
+alias lla="ls -la"
+alias v="vim"
+alias nv="nvim"
+alias mc="micro"
+alias una="uname -a"
+alias nf="neofetch"
+alias cnf="clear
+	   neofetch"
+alias f="fish"
+alias z="zsh"
+alias s="sudo"
+alias d="doas"
+alias lb="lsblk"
+alias lf="lsblk -f"
+alias c="clear"
+alias e="exit"
+alias cmt="cmatrix -a"
+alias bt="bashtop"
+
+# ¬ Emerge Aliases
+
+alias emrgaqv="sudo emerge -aqv"
+alias emrgsync="sudo emerge --sync"
+alias emrgpkg="sudo emerge --ask --buildpkg" # Installs a package from binary
+alias qp="sudo quickpkg"
+
+# To clean cache visist this webpage: https://wiki.gentoo.org/wiki/Eclean
+
+## Neofetch
+
+neofetch
+
+# ¬ lolcat neofetch
+
+#neofetch | lolcat
+
+## -- Figlet Screen -- And some additional aliases too (I mean! Why the fuck not?)
+
+#figlet 'DWM GOES BRRR!!!'
+
+alias cfg="clear
+figlet 'DWM GOES BRRR!!!'"
+alias rg="ranger"
+alias csr="clear
+          scrot"
+
+alias b="bash"
+alias mci="sudo make clean install"
+alias plx="pulsemixer"
+
+# Suckless Software personal default home config (Change it if dirs are switched)
+alias dwmconf="cd ~/.config/dwm && vim config.h"
+alias slstatusconf="cd ~/.config/slstatus && vim config.h"
+alias sxconf="cd ~/.config/sxhkd && vim sxhkdrc"
+
+# --
+
+alias conf="cd ~/.config && rg"
+alias lvim="/home/noend/.local/bin/lvim"
+alias lv="/home/noend/.local/bin/lvim"
+alias rg="ranger"
+alias tm="tmux"
+alias aliasconf="vim ~/.bashrc && vim ~/.config/fish/config.fish && vim ~/.zshrc"
